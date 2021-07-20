@@ -21,7 +21,7 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
     chunkFilename: '[id].[chunkhash].js',
-    publicPath: "/BestPracties/",
+    publicPath: '/BestPracties/',
     clean: true,
   },
   module: {
