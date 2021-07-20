@@ -33,7 +33,7 @@ If you want a copy of this file go to the github repository and download it from
 
 ### Live
 
-[Live](https://collinstatang.github.io/ToDoListApp/)
+[Live](https://collinstatang.github.io/BestPracties/)
 #### Setup
 
 ```cmd
